@@ -35,7 +35,7 @@ Padrões de design de software orientado a objetos foi publicado em 1995 por Eri
 - [Decorator]: Adiciona responsabilidades adicionais a um objeto dinamicamente, permitindo que funcionalidades sejam estendidas sem modificar a classe original.
 - [Facade](): Fornece uma interface simplificada para um conjunto de interfaces em um subsistema, facilitando o uso desse subsistema por clientes.
 - [Flyweight](): Permite a compartilhamento eficiente de objetos para suportar um grande número de objetos de granulação fina, reduzindo o uso de memória.
-- [Proxy](https://github.com/Sandrolaxx/design-pattern-sample/blob/master/structural/proxy/doc.md): Fornece um objeto substituto que controla o acesso a outro objeto, permitindo que operações adicionais sejam realizadas quando o objeto real é acessado.
+- [Proxy](): Fornece um objeto substituto que controla o acesso a outro objeto, permitindo que operações adicionais sejam realizadas quando o objeto real é acessado.
 
 **Padrões comportamentais**
 
