@@ -29,7 +29,7 @@ Padrões de design de software orientado a objetos foi publicado em 1995 por Eri
 
 **Padrões estruturais**
 
-- [Adapter](): Permite que interfaces incompatíveis trabalhem juntas, convertendo a interface de uma classe em outra interface que o cliente espera.
+- [Adapter](https://github.com/dudaclw?tab=repositories): Permite que interfaces incompatíveis trabalhem juntas, convertendo a interface de uma classe em outra interface que o cliente espera.
 - [Bridge](): Separa a abstração da implementação, permitindo que ambas evoluam independentemente, facilitando a adição de novas abstrações e implementações.
 - [Composite](): Permite compor objetos em estruturas de árvore para representar hierarquias parte-todo, permitindo que os clientes tratem objetos individuais e composições de forma uniforme.
 - [Decorator]: Adiciona responsabilidades adicionais a um objeto dinamicamente, permitindo que funcionalidades sejam estendidas sem modificar a classe original.
